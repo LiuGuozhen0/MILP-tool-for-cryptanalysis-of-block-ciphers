@@ -1,0 +1,2 @@
+# MILP-tool-for-cryptanalysis-of-block-ciphers
+This tool is able to construct the MILP model for some bit-oriented block ciphers. once you describe the block-cipher on it, you can do differential and linear cryptanalysis on it. It is also suitable to find impossible input and output, which helps you in impossible differential attack, and zero-correlation attack. The MILP models are based on Gurobi format. In the link (https://drive.google.com/open?id=1VkDEjezc8PJR6m0JA8kaizTNV4IjLT1W ) you can see how the tool works
